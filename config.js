@@ -1,7 +1,7 @@
 // host = '172.16.153.122';	// hostname or IP address
 host = 'mqtt-dashboard.com/wss';	// hostname or IP address
 // host = '172.16.153.110';	// hostname or IP address
-port = 8000;
+port = 443;
 topic = 'able--sourab--';		// topic to subscribe to
 useTLS = false;
 username = null;
