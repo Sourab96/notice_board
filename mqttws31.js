@@ -1,5 +1,15 @@
+
+function getText() {
+    var input = document.getElementById("text-box").value;
+        console.log("Text input:", input);
+                      // You can assign the input value to any variable or perform any other actions here
+        }
+             
+
+
 /*******************************************************************************
  * Copyright (c) 2013 IBM Corp.
+ 
  *
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
