@@ -2,7 +2,8 @@
 host = 'mqtt-dashboard.com';	// hostname or IP address
 // host = '172.16.153.110';	// hostname or IP address
 port = 8000;
-topic = 'able--sourab--';		// topic to subscribe to
+topic = 'smartnoticeboard/965679/notices';		// topic to subscribe to
+pubtopic='smartnoticeboard/965679/responses';
 useTLS = false;
 username = null;
 password = null;

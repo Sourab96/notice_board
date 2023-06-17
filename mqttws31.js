@@ -1,10 +1,4 @@
 
-function getText() {
-    var input = document.getElementById("text-box").value;
-        console.log("Text input:", input);
-                      // You can assign the input value to any variable or perform any other actions here
-        }
-             
 
 
 /*******************************************************************************
